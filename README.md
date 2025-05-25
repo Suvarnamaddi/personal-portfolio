@@ -41,6 +41,6 @@ For any inquiries, please reach out via:
 - **GitHub**: [My GitHub](https://github.com/Suvarnamaddi)
 
 ## License
-This portfolio website is for personal use and learning purposes. Feel free to use and modify it according to your needs.
+This portfolio website is for personal use and learning purposes. Feel free to use and modify it according to your needs .
 
 
